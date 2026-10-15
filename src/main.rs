@@ -273,7 +273,7 @@ fn bullet_hell_demo() {
                 Event::DamageTaken(entity, _amount) => {
                     let e = world.entity_from_index(*entity);
                     if let Some(hp) = world.get_component::<Health>(e) {
-                        if hp.current <= 0 {}
+                        if hp.current == 0 {}
                     }
                 }
                 Event::EntityDied(_entity) => {}
