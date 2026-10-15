@@ -1,3 +1,5 @@
+![chronos-engine](.github/preview.png)
+
 <p align="center">
   <img src="icon.png" alt="Chronos Engine" width="256" height="256">
 </p>
