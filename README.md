@@ -262,7 +262,7 @@ JSON scene/level serialization with `serde_json`.
 
 ```bash
 # Clone
-git clone https://github.com/synthalorian/chronos-engine.git
+git clone https://github.com/Blackshield-Company/chronos-engine.git
 cd chronos-engine
 
 # Terminal demos (no GPU needed):
