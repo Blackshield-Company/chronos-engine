@@ -64,7 +64,7 @@ version = "7"
 optional = true
 
 [dependencies.egui]
-version = "0.30"
+version = "0.37"
 optional = true
 
 [dependencies.egui-wgpu]
