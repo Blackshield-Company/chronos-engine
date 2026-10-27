@@ -68,7 +68,7 @@ version = "0.30"
 optional = true
 
 [dependencies.egui-wgpu]
-version = "0.30"
+version = "0.37"
 optional = true
 features = ["winit"]
 
