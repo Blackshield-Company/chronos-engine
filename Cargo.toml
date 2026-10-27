@@ -73,7 +73,7 @@ optional = true
 features = ["winit"]
 
 [dependencies.egui-winit]
-version = "0.30"
+version = "0.37"
 optional = true
 
 [dependencies.pollster]
